@@ -34,7 +34,7 @@ namespace Unit3Winform
             {
 
                 //database = new DB($@"server = CALLEE01\SQLEXPRESS;Trusted_Connection=true;Database=Northwind;User Instance=false;Connection Timeout=30");
-                database = new DB($@"server = {textBoxServerName.Text};Trusted_Connection=true;Database={textBoxDatabaseName.Text};User Id = {textBoxUsername.Text};Password = {textBoxPassword.Text};Connection Timeout=30");
+                database = new DB($@"server = {textBoxServerName.Text};Database={textBoxDatabaseName.Text};User Id = {textBoxUsername.Text};Password = {textBoxPassword.Text};Integrated Security=False;Trusted_Connection=False;Connection Timeout=30");
                 MessageBox.Show("Database connection initialized");
             }
         }
