@@ -52,7 +52,6 @@
             this.buttonCNumber.TabIndex = 1;
             this.buttonCNumber.Text = "Customer Number";
             this.buttonCNumber.UseVisualStyleBackColor = true;
-            this.buttonCNumber.Click += new System.EventHandler(this.buttonCNumber_Click);
             // 
             // buttonCName
             // 
@@ -62,7 +61,6 @@
             this.buttonCName.TabIndex = 2;
             this.buttonCName.Text = "Customer Name";
             this.buttonCName.UseVisualStyleBackColor = true;
-            this.buttonCName.Click += new System.EventHandler(this.buttonCName_Click);
             // 
             // button2
             // 
