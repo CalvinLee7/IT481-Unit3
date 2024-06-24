@@ -5,11 +5,11 @@ using System.Runtime.InteropServices;
 // General Information about an assembly is controlled through the following
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("Unit2Winform")]
+[assembly: AssemblyTitle("Unit3Winform")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("None")]
-[assembly: AssemblyProduct("Unit2Winform")]
+[assembly: AssemblyProduct("Unit3Winform")]
 [assembly: AssemblyCopyright("Copyright © None 2024")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]

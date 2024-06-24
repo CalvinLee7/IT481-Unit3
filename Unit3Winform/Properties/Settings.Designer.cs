@@ -8,7 +8,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace Unit2Winform.Properties
+namespace Unit3Winform.Properties
 {
 
 
